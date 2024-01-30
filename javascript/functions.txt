@@ -1,0 +1,23 @@
+function function1():
+    return something
+
+
+// this returns something else
+function function2():
+    return something_else
+
+
+// ;s;vr
+function funcyboii
+
+
+function funkmeup
+
+
+functioninitely
+
+//
+functioninitive
+
+//
+functionfff

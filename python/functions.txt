@@ -1,0 +1,23 @@
+def function1():
+    return something
+
+
+# this returns something else
+def function2():
+    return something_else
+
+
+# ;s;vr
+def funcyboii
+
+
+def funkmeup
+
+
+definitely
+
+#
+definitive
+
+  #
+deffff
